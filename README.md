@@ -1,0 +1,3 @@
+...
+creating full stack web!
+used: react,node,mongodb,firebase,css,html
